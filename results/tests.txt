@@ -1,0 +1,28 @@
+test_ack_and_completion_cannot_duplicate_orders (test_regressions.RegressionTests.test_ack_and_completion_cannot_duplicate_orders) ... ok
+test_bad_parameters (test_regressions.RegressionTests.test_bad_parameters) ... ok
+test_central_skips_impossible_first_order (test_regressions.RegressionTests.test_central_skips_impossible_first_order) ... ok
+test_contract_does_not_reannounce_every_tick (test_regressions.RegressionTests.test_contract_does_not_reannounce_every_tick) ... ok
+test_each_sent_message_is_counted (test_regressions.RegressionTests.test_each_sent_message_is_counted) ... ok
+test_full_auction_in_contract (test_regressions.RegressionTests.test_full_auction_in_contract) ... ok
+test_inputs_are_immutable (test_regressions.RegressionTests.test_inputs_are_immutable) ... ok
+test_message_delay_positive (test_regressions.RegressionTests.test_message_delay_positive) ... ok
+test_no_auction_in_central (test_regressions.RegressionTests.test_no_auction_in_central) ... ok
+test_no_collisions_and_bounded_battery_every_tick (test_regressions.RegressionTests.test_no_collisions_and_bounded_battery_every_tick) ... ok
+test_order_requeued_on_emergency (test_regressions.RegressionTests.test_order_requeued_on_emergency) ... ok
+test_recovery_is_visible_and_not_silent (test_regressions.RegressionTests.test_recovery_is_visible_and_not_silent) ... ok
+test_scenario_repeated_seed (test_regressions.RegressionTests.test_scenario_repeated_seed) ... ok
+test_separate_agents_have_separate_mutable_containers (test_regressions.RegressionTests.test_separate_agents_have_separate_mutable_containers) ... ok
+test_station_queue_unique (test_regressions.RegressionTests.test_station_queue_unique) ... ok
+test_central_no_auction (test_simulation.TestSimulation.test_central_no_auction) ... ok
+test_contract_messages (test_simulation.TestSimulation.test_contract_messages) ... ok
+test_duplicate_positions_never (test_simulation.TestSimulation.test_duplicate_positions_never) ... ok
+test_identical_scenario (test_simulation.TestSimulation.test_identical_scenario) ... ok
+test_invalid_configuration (test_simulation.TestSimulation.test_invalid_configuration) ... ok
+test_modes (test_simulation.TestSimulation.test_modes) ... ok
+test_several_maps_and_modes (test_stress.TestStress.test_several_maps_and_modes) ... ok
+test_trace_created (test_stress.TestStress.test_trace_created) ... ok
+
+----------------------------------------------------------------------
+Ran 23 tests in 0.277s
+
+OK

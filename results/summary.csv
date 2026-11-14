@@ -1,0 +1,7 @@
+﻿scenario,mode,n,completion_rate_mean,completion_rate_sd,mean_delivery_ticks_mean,mean_delivery_ticks_sd,mean_assignment_ticks_mean,mean_assignment_ticks_sd,messages_mean,messages_sd,coordination_messages_mean,coordination_messages_sd,message_bytes_mean,message_bytes_sd,coordination_ticks_mean,coordination_ticks_sd,distance_cells_mean,distance_cells_sd,collisions_prevented_mean,collisions_prevented_sd,emergency_recoveries_mean,emergency_recoveries_sd,deadlock_recoveries_mean,deadlock_recoveries_sd,unfinished_mean,unfinished_sd
+light,central,10,1.0,0.0,23.131,3.781,4.0,0.0,48.3,0.949,32,0.0,4418.1,85.698,64,0.0,289.6,61.04,0.8,1.033,0,0.0,0,0.0,0,0.0
+light,contract,10,1.0,0.0,27.994,4.099,9.0,0.0,272,0.0,256,0.0,25414.8,65.204,144,0.0,287,65.098,1.1,1.595,0,0.0,0,0.0,0,0.0
+medium,central,10,1.0,0.0,32.443,4.259,5.883,1.852,101.4,2.989,60,0.0,9272.9,272.249,176.5,55.57,830.1,83.462,4.3,1.418,0,0.0,0,0.0,0,0.0
+medium,contract,10,1.0,0.0,54.31,15.503,23.79,10.993,946.9,223.931,897.8,220.374,87131.3,20525.062,713.7,329.783,1043.3,249.921,13.2,22.195,0.6,0.966,0.2,0.632,0,0.0
+heavy,central,10,1.0,0.0,87.88,15.936,52.129,13.333,190.6,5.835,111.2,1.932,17539.9,536.728,2867.1,733.314,2071.1,213.854,14.2,6.286,0.7,0.949,0,0.0,0,0.0
+heavy,contract,10,1.0,0.0,106.187,8.374,70.211,6.467,4262.2,270.802,4160.6,267.95,393815.8,24924.898,3861.6,355.664,2124.6,137.451,10.9,3.143,0.4,0.843,0,0.0,0,0.0

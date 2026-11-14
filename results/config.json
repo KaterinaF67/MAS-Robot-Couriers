@@ -1,0 +1,50 @@
+{
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "scenarios": {
+    "light": {
+      "width": 16,
+      "height": 16,
+      "n_robots": 7,
+      "n_stations": 2,
+      "n_orders": 16,
+      "arrivals": 100,
+      "max_ticks": 700,
+      "obstacles": 0.05
+    },
+    "medium": {
+      "width": 20,
+      "height": 20,
+      "n_robots": 8,
+      "n_stations": 2,
+      "n_orders": 30,
+      "arrivals": 110,
+      "max_ticks": 950,
+      "obstacles": 0.1
+    },
+    "heavy": {
+      "width": 24,
+      "height": 24,
+      "n_robots": 10,
+      "n_stations": 3,
+      "n_orders": 55,
+      "arrivals": 100,
+      "max_ticks": 1400,
+      "obstacles": 0.12
+    }
+  },
+  "methods": [
+    "central",
+    "contract"
+  ]
+}
